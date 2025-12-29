@@ -104,7 +104,7 @@ export function Dashboard() {
         <>
             <div className="space-y-4 sm:space-y-6">
                 <div>
-                    <h2 className={cn("text-xl sm:text-2xl font-bold tracking-tight", isDark ? "text-slate-50" : "text-gray-900")}>Dashboard</h2>
+                    <h2 className={cn("text-xl sm:text-2xl font-bold tracking-tight", isDark ? "text-slate-50" : "text-gray-900")}>Campaign performance</h2>
                     <p className={cn("mt-0.5 text-xs sm:text-sm", isDark ? "text-slate-400" : "text-gray-500")}>Campaign performance overview</p>
                 </div>
 
